@@ -1,6 +1,4 @@
-Claro, Caio! Aqui está uma versão aprimorada e traduzida do seu README para o português, com uma linguagem mais clara, fluida e profissional:
 
----
 
 # Aplicativo Bancário com Swing e MySQL
 
